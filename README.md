@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning that I need to expand my skillset, coding is the area I have chosen
 - 💞️ I’m looking to collaborate on basic principles at this point
 - 📫 How to reach me cingularone@yahoo.com
+- In the process of builiding training paths for GIT for mulitple teams at a large telecommunicaitons compnay
 
 <!---
 Just-a-bit-outside/Just-a-bit-outside is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
